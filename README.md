@@ -3,9 +3,6 @@ arduino-serial -- C code to talk to Arduino
 
 Original URL: http://todbot.com/blog/2006/12/06/arduino-serial-c-code-to-talk-to-arduino/
 
-Post about changes: http://todbot.com/blog/2013/04/29/arduino-serial-updated/
-
-
 Usage
 ------
 <pre>
@@ -31,17 +28,6 @@ Note: Order is important. Set '-b' baudrate before opening port'-p'.
       means 'wait 2secs, send 'hello', wait 100msec, get reply'
 
 </pre>
-
-
-Downloads
----------
-For convenience, here's some pre-built versions of arduino-serial. 
-They may not be updated regularly, so compile it yourself if you can.
-Click the "view raw" to get the actual zip file.
-
-- https://github.com/todbot/arduino-serial/blob/master/arduino-serial-macosx.zip
-- https://github.com/todbot/arduino-serial/blob/master/arduino-serial-linux.zip
-
 
 Compilation
 -----------
